@@ -48,6 +48,8 @@ Matrix Addition , Matrix Subtraction ,Matrix Multiplication ,Matrix Transpose ,D
 -> Tech Stack: HTML, CSS, JavaScript, (Flask/TextBlob backend support planned)
 
 📂 File: sentiment_analyzer_app.html
+<img width="1518" height="1004" alt="image" src="https://github.com/user-attachments/assets/0f2def2c-2da1-4de3-974c-13d645a3a8ad" />
+
 
 
 # 🎯 Learning Outcomes
