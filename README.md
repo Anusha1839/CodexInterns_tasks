@@ -5,41 +5,30 @@ This repository contains my internship work completed at CodexInterns, focusing 
 # 📌 Tasks Overview
 1️⃣ House Price Prediction using Linear Regression 🏠
 
-Description:
-Developed a Linear Regression model to predict house prices using features such as number of rooms, size, location, and other relevant factors.
+Description: Developed a Linear Regression model to predict house prices using features such as number of rooms, size, location, and other relevant factors.
++ Steps Implemented:
 
-Steps Implemented:
+- Collected and preprocessed dataset (from Kaggle).
 
-Collected and preprocessed dataset (from Kaggle).
+- Handled missing values, performed feature encoding, and scaling.
 
-Handled missing values, performed feature encoding, and scaling.
+- Trained and evaluated a Linear Regression model using Scikit-learn.
 
-Trained and evaluated a Linear Regression model using Scikit-learn.
+- Evaluated model with R² Score & Mean Squared Error (MSE).
 
-Evaluated model with R² Score & Mean Squared Error (MSE).
-
-Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook.
+- Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook.
 
 📂 File: codexintern_task1_House_Price_Prediction_Linear_Regression_Model.ipynb
 
 # 2️⃣ Matrix Operations Tool 🔢
 
-Description:
-Built a Python tool using NumPy to perform various matrix operations with an interactive interface.
+Description: Built a Python tool using NumPy to perform various matrix operations with an interactive interface.
 
-Features Implemented:
++ Features Implemented:
 
-Matrix Addition
+Matrix Addition , Matrix Subtraction ,Matrix Multiplication ,Matrix Transpose ,Determinant Calculation
 
-Matrix Subtraction
-
-Matrix Multiplication
-
-Matrix Transpose
-
-Determinant Calculation
-
-Tech Stack: Python, NumPy, Jupyter Notebook
+- Tech Stack: Python, NumPy, Jupyter Notebook
 
 📂 File: Codexintern_Task_2_Matrix_Operations_Tool.ipynb
 
@@ -49,9 +38,13 @@ Tech Stack: Python, NumPy, Jupyter Notebook
 - Features:
 
 -> Text input area for user text
+
 -> Sentiment classification (positive, negative, neutral)
+
 -> Displays Polarity (-1 to +1) and Subjectivity (0 to 1)
+
 -> Interactive UI with styled results and example test cases
+
 -> Tech Stack: HTML, CSS, JavaScript, (Flask/TextBlob backend support planned)
 
 📂 File: sentiment_analyzer_app.html
